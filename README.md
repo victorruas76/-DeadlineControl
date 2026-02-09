@@ -1,8 +1,4 @@
-<p align="center">
-  https://img.shields.io/badge/status-em%20produção-success?style=flat-square
-  https://img.shields.io/badge/version-1.0.0-blue?style=flat-square
-  https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square
-</p>
+
 
 <h1 align="center">Painel de Atividades – Controle de Fechamento Contábil</h1>
 
